@@ -1,4 +1,4 @@
-Analyzing project at C:/Users/ADMIN/IdeaProjects/SWP391
+Analyzing project at C:/Users/ADMIN/IdeaProjects/SWP391 - Copy
 [  0%] Analyze module SWP391
 [  2%] Analyze api.APIHandler
 [  5%] Analyze api.TimerAPIHandler
@@ -15,25 +15,25 @@ Analyzing project at C:/Users/ADMIN/IdeaProjects/SWP391
 [ 33%] Analyze entity.Lecture
 [ 35%] Analyze entity.Question
 [ 38%] Analyze entity.Selection
-[ 41%] Analyze entity.StudentClassDetail
+[ 43%] Analyze entity.StudentClassDetail
+[ 66%] Analyze google.GoogleLoginConstants
+[ 64%] Analyze google.GoogleLoginCallbackServlet
 [ 61%] Analyze filter.ThrowerServlet
 [ 58%] Analyze entity.User
+[ 53%] Analyze entity.Student
 [ 56%] Analyze entity.TestDetail
 [ 53%] Analyze entity.Test
-[ 51%] Analyze entity.Student
+[ 53%] Analyze entity.StudentTest
 [ 48%] Analyze entity.Subject
 [ 46%] Analyze entity.StudentTestDetail
-[ 43%] Analyze entity.StudentTest
 [ 76%] Analyze google.TestLoginServlet
 [ 74%] Analyze google.GoogleUser
 [ 71%] Analyze google.GoogleLoginUtils
 [ 69%] Analyze google.GoogleLoginRedirectServlet
-[ 66%] Analyze google.GoogleLoginCallbackServlet
-[ 66%] Analyze google.GoogleLoginConstants
 [ 79%] Analyze model.DBConnect
-[ 84%] Analyze utility.APIUtil
+[ 82%] Analyze utility.APIUtil
 [ 84%] Analyze utility.Test
 [ 87%] Analyze utility.Utility
 [ 89%] Analyze utility.WebRedirectionUtil
-Analysis finished in 00:00:06.245.
-The results are saved to C:/Users/ADMIN/IdeaProjects/SWP391/.PVS-Studio/temp.json.
+Analysis finished in 00:00:07.223.
+The results are saved to C:/Users/ADMIN/IdeaProjects/SWP391 - Copy/.PVS-Studio/temp.json.
