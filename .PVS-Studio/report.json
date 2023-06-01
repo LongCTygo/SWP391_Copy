@@ -1,0 +1,289 @@
+{
+  "version": 2,
+  "warnings": [
+    {
+      "code": "V6021",
+      "cwe": 563,
+      "sastId": "CERT-MSC56-J",
+      "level": 2,
+      "positions": [
+        {
+          "file": "C:\\Users\\ADMIN\\IdeaProjects\\SWP391\\src\\java\\dao\\DAO.java",
+          "line": 782,
+          "endLine": 782,
+          "column": 13,
+          "endColumn": 28,
+          "navigation": {
+            "previousLine": -1870815888,
+            "currentLine": 4153697,
+            "nextLine": 0,
+            "columns": 28
+          }
+        }
+      ],
+      "message": "Variable \u0027dao\u0027 is not used.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V6021",
+      "cwe": 563,
+      "sastId": "CERT-MSC56-J",
+      "level": 3,
+      "positions": [
+        {
+          "file": "C:\\Users\\ADMIN\\IdeaProjects\\SWP391\\src\\java\\dao\\DAO.java",
+          "line": 784,
+          "endLine": 784,
+          "column": 13,
+          "endColumn": 18,
+          "navigation": {
+            "previousLine": 0,
+            "currentLine": 5057,
+            "nextLine": 0,
+            "columns": 18
+          }
+        }
+      ],
+      "message": "Variable \u0027n\u0027 is not used.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V6021",
+      "cwe": 563,
+      "sastId": "CERT-MSC56-J",
+      "level": 3,
+      "positions": [
+        {
+          "file": "C:\\Users\\ADMIN\\IdeaProjects\\SWP391\\src\\java\\controller\\test.java",
+          "line": 41,
+          "endLine": 41,
+          "column": 27,
+          "endColumn": 52,
+          "navigation": {
+            "previousLine": 1961783016,
+            "currentLine": 345581102,
+            "nextLine": -1555700057,
+            "columns": 55
+          }
+        }
+      ],
+      "message": "Variable \u0027out\u0027 is not used.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "Renew",
+      "cwe": 0,
+      "level": 1,
+      "positions": [],
+      "message": "Your license will expire in 7 days. Click \u0027Renew\u0027 to learn more or contact us at support@viva64.com.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V6021",
+      "cwe": 563,
+      "sastId": "CERT-MSC56-J",
+      "level": 3,
+      "positions": [
+        {
+          "file": "C:\\Users\\ADMIN\\IdeaProjects\\SWP391\\src\\java\\controller\\changepassword.java",
+          "line": 36,
+          "endLine": 36,
+          "column": 27,
+          "endColumn": 52,
+          "navigation": {
+            "previousLine": 1961783016,
+            "currentLine": 345581102,
+            "nextLine": 0,
+            "columns": 55
+          }
+        }
+      ],
+      "message": "Variable \u0027out\u0027 is not used.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V6021",
+      "cwe": 563,
+      "sastId": "CERT-MSC56-J",
+      "level": 3,
+      "positions": [
+        {
+          "file": "C:\\Users\\ADMIN\\IdeaProjects\\SWP391\\src\\java\\controller\\login.java",
+          "line": 38,
+          "endLine": 38,
+          "column": 27,
+          "endColumn": 52,
+          "navigation": {
+            "previousLine": 1961783016,
+            "currentLine": 345581102,
+            "nextLine": -1555700057,
+            "columns": 55
+          }
+        }
+      ],
+      "message": "Variable \u0027out\u0027 is not used.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V6008",
+      "cwe": 690,
+      "sastId": "CERT-EXP01-J",
+      "level": 3,
+      "positions": [
+        {
+          "file": "C:\\Users\\ADMIN\\IdeaProjects\\SWP391\\src\\java\\google\\GoogleLoginCallbackServlet.java",
+          "line": 45,
+          "endLine": 45,
+          "column": 43,
+          "endColumn": 46,
+          "navigation": {
+            "previousLine": -1555700057,
+            "currentLine": 915507983,
+            "nextLine": -1125264581,
+            "columns": 59
+          }
+        }
+      ],
+      "message": "Potential null dereference of \u0027user\u0027.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V6021",
+      "cwe": 563,
+      "sastId": "CERT-MSC56-J",
+      "level": 3,
+      "positions": [
+        {
+          "file": "C:\\Users\\ADMIN\\IdeaProjects\\SWP391\\src\\java\\controller\\mainpage.java",
+          "line": 35,
+          "endLine": 35,
+          "column": 27,
+          "endColumn": 52,
+          "navigation": {
+            "previousLine": 1961783016,
+            "currentLine": 345581102,
+            "nextLine": -1555700057,
+            "columns": 55
+          }
+        }
+      ],
+      "message": "Variable \u0027out\u0027 is not used.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V6021",
+      "cwe": 563,
+      "sastId": "CERT-MSC56-J",
+      "level": 3,
+      "positions": [
+        {
+          "file": "C:\\Users\\ADMIN\\IdeaProjects\\SWP391\\src\\java\\controller\\forgotpassword.java",
+          "line": 36,
+          "endLine": 36,
+          "column": 27,
+          "endColumn": 52,
+          "navigation": {
+            "previousLine": 1961783016,
+            "currentLine": 345581102,
+            "nextLine": -1555700057,
+            "columns": 55
+          }
+        }
+      ],
+      "message": "Variable \u0027out\u0027 is not used.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V6021",
+      "cwe": 563,
+      "sastId": "CERT-MSC56-J",
+      "level": 3,
+      "positions": [
+        {
+          "file": "C:\\Users\\ADMIN\\IdeaProjects\\SWP391\\src\\java\\controller\\logout.java",
+          "line": 35,
+          "endLine": 35,
+          "column": 27,
+          "endColumn": 52,
+          "navigation": {
+            "previousLine": 1961783016,
+            "currentLine": 345581102,
+            "nextLine": -1197300021,
+            "columns": 55
+          }
+        }
+      ],
+      "message": "Variable \u0027out\u0027 is not used.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V6021",
+      "cwe": 563,
+      "sastId": "CERT-MSC56-J",
+      "level": 3,
+      "positions": [
+        {
+          "file": "C:\\Users\\ADMIN\\IdeaProjects\\SWP391\\src\\java\\google\\GoogleLoginCallbackServlet.java",
+          "line": 43,
+          "endLine": 43,
+          "column": 27,
+          "endColumn": 52,
+          "navigation": {
+            "previousLine": 125,
+            "currentLine": 345581102,
+            "nextLine": -1555700057,
+            "columns": 55
+          }
+        }
+      ],
+      "message": "Variable \u0027out\u0027 is not used.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V6009",
+      "cwe": 628,
+      "level": 1,
+      "positions": [
+        {
+          "file": "C:\\Users\\ADMIN\\IdeaProjects\\SWP391\\src\\java\\controller\\forgotpassword.java",
+          "line": 46,
+          "endLine": 46,
+          "column": 31,
+          "endColumn": 51,
+          "navigation": {
+            "previousLine": 882276587,
+            "currentLine": 626437447,
+            "nextLine": 591063209,
+            "columns": 63
+          }
+        }
+      ],
+      "message": "The \u0027substring\u0027 function could receive the \u0027-1\u0027 value while non-negative value is expected. Inspect argument: 2.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    }
+  ]
+}

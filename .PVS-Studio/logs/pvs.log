@@ -1,0 +1,80 @@
+2023-06-01 13:27:26 [INFO ] c.p.r.NativeLoader:225 - Start check license in other process
+2023-06-01 13:27:26 [INFO ] c.p.r.NativeLoader:183 - ********************************
+2023-06-01 13:27:26 [INFO ] c.p.r.NativeLoader:184 - Additional native libraries search paths: 
+2023-06-01 13:27:26 [INFO ] c.p.r.NativeLoader:992 - C:\Users\ADMIN\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\231.9011.34\jbr\bin
+2023-06-01 13:27:26 [INFO ] c.p.r.NativeLoader:212 - Additional not loaded native library found: C:\Users\ADMIN\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\231.9011.34\jbr\bin\awt.dll
+2023-06-01 13:27:26 [INFO ] c.p.r.NativeLoader:212 - Additional not loaded native library found: C:\Users\ADMIN\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\231.9011.34\jbr\bin\nativewindow_awt.dll
+2023-06-01 13:27:26 [INFO ] c.p.r.NativeLoader:212 - Additional not loaded native library found: C:\Users\ADMIN\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\231.9011.34\jbr\bin\jawt.dll
+2023-06-01 13:27:26 [INFO ] c.p.r.NativeLoader:212 - Additional not loaded native library found: C:\Users\ADMIN\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\231.9011.34\jbr\bin\server\jvm.dll
+2023-06-01 13:27:26 [INFO ] c.p.r.NativeLoader:215 - ********************************
+2023-06-01 13:27:26 [INFO ] c.p.r.NativeLoader:159 - ********************************
+2023-06-01 13:27:26 [INFO ] c.p.r.NativeLoader:160 - Native library search paths: 
+2023-06-01 13:27:26 [INFO ] c.p.r.NativeLoader:992 - C:\Users\ADMIN\AppData\Roaming\PVS-Studio-Java\7.24.70333
+2023-06-01 13:27:26 [INFO ] c.p.r.NativeLoader:992 - .
+2023-06-01 13:27:26 [INFO ] c.p.r.NativeLoader:992 - C:\Users\ADMIN\AppData\Roaming\PVS-Studio-Java\7.24.70333\..
+2023-06-01 13:27:26 [INFO ] c.p.r.NativeLoader:992 - C:\Users\ADMIN\AppData\Roaming\PVS-Studio-Java\7.24.70333\..\..
+2023-06-01 13:27:26 [INFO ] c.p.r.NativeLoader:992 - C:\Users\ADMIN\AppData\Roaming\PVS-Studio-Java\7.24.70333\..\..\build
+2023-06-01 13:27:26 [INFO ] c.p.r.NativeLoader:162 - Additional path: native/win
+2023-06-01 13:27:26 [INFO ] c.p.r.NativeLoader:171 - Native library found: C:\Users\ADMIN\AppData\Roaming\PVS-Studio-Java\7.24.70333\native\win\analysis-core.dll
+2023-06-01 13:27:26 [INFO ] c.p.r.NativeLoader:172 - ********************************
+2023-06-01 13:27:26 [INFO ] c.p.r.NativeLoader:227 - End check license in other process
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:49 - Module: SWP391
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:50 - Sources:
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/IdeaProjects/SWP391/src/java
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:52 - Classpath:
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/.jdks/corretto-1.8.0_372/jre/lib/jfr.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/.jdks/corretto-1.8.0_372/jre/lib/ext/jfxrt.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/.jdks/corretto-1.8.0_372/jre/lib/ext/zipfs.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/IdeaProjects/SWP391/lib/jakarta.el-api-4.0.0.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/.jdks/corretto-1.8.0_372/jre/lib/ext/localedata.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/.jdks/corretto-1.8.0_372/jre/lib/ext/sunpkcs11.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/IdeaProjects/SWP391/lib/jakarta.servlet.jsp.jstl-api-2.0.0.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/.jdks/corretto-1.8.0_372/jre/lib/ext/cldrdata.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/.jdks/corretto-1.8.0_372/jre/lib/resources.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/.jdks/corretto-1.8.0_372/jre/lib/ext/sunmscapi.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/.jdks/corretto-1.8.0_372/jre/lib/jce.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/IdeaProjects/SWP391/lib/javaee-endorsed-api-7.0.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/IdeaProjects/SWP391/lib/httpclient-4.5.5.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/.jdks/corretto-1.8.0_372/jre/lib/ext/nashorn.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/.jdks/corretto-1.8.0_372/jre/lib/jsse.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/IdeaProjects/SWP391/lib/commons-logging-1.2.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/IdeaProjects/SWP391/lib/mysql-connector.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/.jdks/corretto-1.8.0_372/jre/lib/rt.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/IdeaProjects/SWP391/lib/sqljdbc42.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/.jdks/corretto-1.8.0_372/jre/lib/ext/dnsns.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/.jdks/corretto-1.8.0_372/jre/lib/jfxswt.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/IdeaProjects/SWP391/lib/jakarta.servlet-api-5.0.0.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/IdeaProjects/SWP391/lib/httpcore-4.4.9.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/.jdks/corretto-1.8.0_372/jre/lib/ext/sunjce_provider.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/IdeaProjects/SWP391/lib/jakarta.activation-2.0.0.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/.jdks/corretto-1.8.0_372/jre/lib/ext/jaccess.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/.jdks/corretto-1.8.0_372/jre/lib/ext/access-bridge-64.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/.jdks/corretto-1.8.0_372/jre/lib/management-agent.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/.jdks/corretto-1.8.0_372/jre/lib/charsets.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/.jdks/corretto-1.8.0_372/jre/lib/ext/sunec.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/IdeaProjects/SWP391/lib/jakarta.xml.bind-api-3.0.0.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/IdeaProjects/SWP391/lib/fluent-hc-4.5.5.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/IdeaProjects/SWP391/lib/jakarta.servlet.jsp.jstl-2.0.0.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/ADMIN/IdeaProjects/SWP391/lib/gson-2.8.2.jar
+2023-06-01 13:27:28 [INFO ] c.p.p.IncrementalLauncher:278 - Build model from scratch...
+2023-06-01 13:27:30 [INFO ] c.p.p.IncrementalLauncher:312 - Cache saving started.
+2023-06-01 13:27:30 [INFO ] c.p.p.IncrementalLauncher:355 - Cache saving finished.
+2023-06-01 13:27:30 [INFO ] c.p.p.Module:383 - Model build success.
+2023-06-01 13:27:30 [INFO ] c.p.r.NativeLoader:183 - ********************************
+2023-06-01 13:27:30 [INFO ] c.p.r.NativeLoader:184 - Additional native libraries search paths: 
+2023-06-01 13:27:30 [INFO ] c.p.r.NativeLoader:992 - C:\Users\ADMIN\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\231.9011.34\jbr\bin
+2023-06-01 13:27:30 [INFO ] c.p.r.NativeLoader:212 - Additional not loaded native library found: C:\Users\ADMIN\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\231.9011.34\jbr\bin\awt.dll
+2023-06-01 13:27:30 [INFO ] c.p.r.NativeLoader:212 - Additional not loaded native library found: C:\Users\ADMIN\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\231.9011.34\jbr\bin\nativewindow_awt.dll
+2023-06-01 13:27:30 [INFO ] c.p.r.NativeLoader:212 - Additional not loaded native library found: C:\Users\ADMIN\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\231.9011.34\jbr\bin\jawt.dll
+2023-06-01 13:27:30 [INFO ] c.p.r.NativeLoader:212 - Additional not loaded native library found: C:\Users\ADMIN\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\231.9011.34\jbr\bin\server\jvm.dll
+2023-06-01 13:27:30 [INFO ] c.p.r.NativeLoader:215 - ********************************
+2023-06-01 13:27:30 [INFO ] c.p.r.NativeLoader:159 - ********************************
+2023-06-01 13:27:30 [INFO ] c.p.r.NativeLoader:160 - Native library search paths: 
+2023-06-01 13:27:30 [INFO ] c.p.r.NativeLoader:992 - C:\Users\ADMIN\AppData\Roaming\PVS-Studio-Java\7.24.70333
+2023-06-01 13:27:30 [INFO ] c.p.r.NativeLoader:992 - .
+2023-06-01 13:27:30 [INFO ] c.p.r.NativeLoader:992 - C:\Users\ADMIN\AppData\Roaming\PVS-Studio-Java\7.24.70333\..
+2023-06-01 13:27:30 [INFO ] c.p.r.NativeLoader:992 - C:\Users\ADMIN\AppData\Roaming\PVS-Studio-Java\7.24.70333\..\..
+2023-06-01 13:27:30 [INFO ] c.p.r.NativeLoader:992 - C:\Users\ADMIN\AppData\Roaming\PVS-Studio-Java\7.24.70333\..\..\build
+2023-06-01 13:27:30 [INFO ] c.p.r.NativeLoader:162 - Additional path: native/win
+2023-06-01 13:27:30 [INFO ] c.p.r.NativeLoader:171 - Native library found: C:\Users\ADMIN\AppData\Roaming\PVS-Studio-Java\7.24.70333\native\win\analysis-core.dll
+2023-06-01 13:27:30 [INFO ] c.p.r.NativeLoader:172 - ********************************
