@@ -71,6 +71,7 @@ public class DAO extends DBConnect {
             pre.setString(8, Utility.generateRandCode());
 
             n = pre.executeUpdate();
+            pre.close();
         } catch (SQLException ex) {
             Logger.getLogger(DAO.class.getName()).log(Level.SEVERE, null, ex);
         }
