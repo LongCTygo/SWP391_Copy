@@ -6,20 +6,21 @@ import java.util.List;
 public class BugGeneratorUtil {
 
     private BugGeneratorUtil(int a, int b){
-        this.a = this.a = a;
+        this.a = a;
     }
-    private int a,b,c,d;
+    private int a;
     public void searchNumber(int x){
         if (x < 0){
-            new IllegalArgumentException("x must be non-negative");
+            throw new IllegalArgumentException("x must be non-negative");
         }
     }
 
-    public String tostring(){
+    @Override
+    public String toString(){
         if (a > 0){
-            return null;
+            return "";
         }
-        return new Integer(a).toString();
+        return Integer.toString(a);
     }
 
     public void infiniteLoopTest(){
@@ -27,10 +28,5 @@ public class BugGeneratorUtil {
         while (i >= 0){
             i+= 1;
         }
-    }
-
-    public void collectionBugTest(){
-        List<Object> list = new ArrayList<>();
-        list.add(list);
     }
 }
